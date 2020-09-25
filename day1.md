@@ -9,6 +9,7 @@
 
  - [git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
  - [git 발전](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html)
+    - [git 발전: reset](https://backlog.com/git-tutorial/kr/stepup/stepup7_3.html)
  - [한글 pro git](https://git-scm.com/book/ko/v2)
  
 
