@@ -1,6 +1,6 @@
 # Java 강의 - 2020
 
-# Day1 - Java 시작
+# [Day1 - Java 시작](/day1.md)
 
 1. git 이용
 2. Java개발환경
