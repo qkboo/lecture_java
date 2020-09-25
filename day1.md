@@ -18,6 +18,12 @@
  - [연습2: 리눅스 기본 명령어](https://jhnyang.tistory.com/13)
 
 
+#### github 활용 취업
+ 
+ - [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
+ - [(특강) 깃허브로 취업하기](https://dataitgirls2.github.io/tutorial/Tutorial_180803_GettingJobGithub.html)
+ - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+
 ---
 
 # 2. Java 개발환경
