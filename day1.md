@@ -11,7 +11,12 @@
  - [git 발전](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html)
     - [git 발전: reset](https://backlog.com/git-tutorial/kr/stepup/stepup7_3.html)
  - [한글 pro git](https://git-scm.com/book/ko/v2)
- 
+
+#### 리눅스 명령어 연습!!!
+
+ - [연습1: 리눅스 기본 명령어](https://itholic.github.io/linux-basic-command/)
+ - [연습2: 리눅스 기본 명령어](https://jhnyang.tistory.com/13)
+
 
 ---
 
