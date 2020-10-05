@@ -11,3 +11,9 @@
  - StringTokenizer
  - String.substring()
 
+## 제출:
+
+github에 올린후 깃헙 주소를 제출:
+
+ - 이메일: gangtai.goh@gmail.com
+ - 제목: java-1005 과제
