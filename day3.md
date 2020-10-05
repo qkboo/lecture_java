@@ -15,3 +15,10 @@
 
  - [코드 for test](/day3/Test_forwhile.java)
  - [코드 Guess Number](/day3/Ex_GuessNumber2.java)
+
+## 3. 참조자료형
+
+
+## 과제
+
+ - [day3 과제](/day3/homework.md)
