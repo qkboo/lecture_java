@@ -14,3 +14,4 @@
 ## 2. 반복문
 
  - [코드 for test](/day3/Test_forwhile.java)
+ - [코드 Guess Number](/day3/Ex_GuessNumber2.java)
