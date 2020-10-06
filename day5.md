@@ -17,6 +17,7 @@ https://futurists.tistory.com/11
 
 1. [JDBC를 이용한 데이터베이스(MySQL) 샘플 코드](https://hsunnystory.tistory.com/160)
 
+1. [Jdbc - TimeZone 에러](https://offbyone.tistory.com/318)
 
 
 ## Http, Json 이용
